@@ -12,7 +12,7 @@ class Artist
    @songs << song
   end
 
-  
+
 
 
 
