@@ -17,7 +17,7 @@ class Artist
   end
 
   def save
-    @@all = Artist.new(name, song)
+  
   end
 
 end
