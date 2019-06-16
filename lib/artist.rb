@@ -17,11 +17,9 @@ class Artist
   end
 
   def save
-    
+
   end
 
-  def all
-   @all
-  end
+
 
 end
