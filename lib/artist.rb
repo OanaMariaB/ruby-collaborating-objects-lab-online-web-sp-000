@@ -10,7 +10,7 @@ class Artist
   def add_song(songs)
     songs = 0
     songs = Song.new(name)
-    somgs +=1
+    songs +=1
     @all << songs
 
   end
