@@ -16,6 +16,10 @@ class Artist
    @songs
   end
 
+  def save
+    @@all = Artist.new
+  end
+
   def all
    @all
   end
